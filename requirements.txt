@@ -6,6 +6,6 @@ numpy==1.15.4
 Rtree==0.8.2
 scipy==1.1.0
 numba==0.41.0
-networkx==2.2
+networkx==2.7
 python_igraph==0.7.1.post6
 scikit_learn==0.21.2
